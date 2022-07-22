@@ -38,5 +38,5 @@ If you are using different image size, don't forget change [models folder](model
    │       └───__pycache__
    │           └───...
    └───...
-```
+   ```
 2. Don't delete media folder, because it is the place where images are uploaded and stored.
