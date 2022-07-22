@@ -1,0 +1,1 @@
+web: gunicorn skripsi_server.wsgi
